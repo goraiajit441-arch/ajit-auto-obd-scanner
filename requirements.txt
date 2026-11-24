@@ -1,0 +1,4 @@
+streamlit
+pandas
+cd D:\OBD\AJIT_AUTO_SCANNER
+git --version
