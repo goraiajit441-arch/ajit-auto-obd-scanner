@@ -328,7 +328,7 @@ live_monitor()
 # ---------------- FOOTER ----------------
 st.divider()
 st.caption(
-    "AJIT AUTO Diagnostic Scanner | Software Prototype V2 | "
-    "Simulation only — ECU not connected"
-)
+"Motorcycle OBD Scanner | Professional Diagnostic Tool | "
+"Developed by Ajit Gorai | Jamshedpur, Jharkhand, India"
+
 
