@@ -162,8 +162,7 @@ st.sidebar.caption("No ECU hardware connected")
 st.sidebar.caption("Demo sensor readings only")
 
 # ---------------- HEADER ----------------
-st.title("🏍️ AJIT AUTO — ADVANCED LIVE DATA")
-st.caption(f"Vehicle: {brand} {model} | Year: {year}")
+st.title("🏍️ MOTORCYCLE OBD SCANNER TOOL")
 
 st.warning(
     "SIMULATION MODE: These are randomly generated demo readings, "
@@ -328,7 +327,12 @@ live_monitor()
 # ---------------- FOOTER ----------------
 st.divider()
 st.caption(
-"Motorcycle OBD Scanner | Professional Diagnostic Tool | "
-"Developed by Ajit Gorai | Jamshedpur, Jharkhand, India"
+    
+st.divider()
+
+st.caption(
+    "Motorcycle OBD Scanner | Professional Diagnostic Tool | "
+    "Developed by Ajit Gorai | Jamshedpur, Jharkhand, India"
+)
 
 
