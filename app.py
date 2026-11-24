@@ -326,13 +326,9 @@ live_monitor()
 
 # ---------------- FOOTER ----------------
 st.divider()
-st.caption(
-    
-st.divider()
 
 st.caption(
     "Motorcycle OBD Scanner | Professional Diagnostic Tool | "
     "Developed by Ajit Gorai | Jamshedpur, Jharkhand, India"
 )
-
 
